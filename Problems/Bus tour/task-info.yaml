@@ -1,0 +1,31 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3820#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #2 of 5. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    211 5
+    871 205 123 871 1681
+    Correct output:
+    Will crash on bridge 2
+
+    Your code output:
+    Will crash on bridge 1
+  time: Wed, 20 Jan 2021 04:47:38 UTC
+record: -1
